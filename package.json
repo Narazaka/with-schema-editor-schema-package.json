@@ -1,0 +1,13 @@
+{
+  "name": "with-schema-editor-schema-package.json",
+  "version": "0.0.1",
+  "description": "WithSchemaEditor package.json schema",
+  "main": "index.js",
+  "author": {
+    "name": "Narazaka"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "coffee-script": "^1.10.0"
+  }
+}

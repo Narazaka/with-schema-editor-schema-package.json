@@ -1,0 +1,9 @@
+**/.*
+node_modules
+bower_components
+npm-debug.log
+coverage
+!.gitignore
+!.npmignore
+!.travis.yml
+!.codeclimate.yml
